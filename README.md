@@ -5,9 +5,9 @@
 A computer vision project for vehicle detection, multi-object tracking, directional traffic counting, and **real-time vehicle speed estimation** using **YOLO11, ByteTrack, and OpenCV**.
 
 The system processes highway footage, tracks vehicles across video frames, distinguishes incoming and outgoing traffic, calculates real-time vehicle speeds, and generates comprehensive vehicle statistics and CSV reports.
-![YOLO Vehicle Counter Demo](assets/unidirectional-demo.gif)
----
 
+---
+![YOLO Vehicle Counter Demo](assets/unidirectional-demo.gif)
 ## Project Demo
 
 ### Watch the Vehicle Counter in Action
