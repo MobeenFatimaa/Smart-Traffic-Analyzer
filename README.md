@@ -1,4 +1,4 @@
-# YOLO Vehicle Counter & Speed Estimator | Intelligent Traffic Analytics
+# Intelligent Traffic Analyzer | YOLO Vehicle Counter & Speed Estimator 
 
 ![YOLO Vehicle Counter Demo](assets/vehicle-counter-demo.gif)
 
