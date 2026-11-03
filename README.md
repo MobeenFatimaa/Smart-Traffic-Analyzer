@@ -12,7 +12,7 @@ The system processes highway footage, tracks vehicles across video frames, disti
 
 ### Watch the Vehicle Counter in Action
 
-**Full demonstration:** [Watch the complete demo video](https://youtu.be/CGzlXJsYTjQ)
+**Full demonstration:** [Watch the complete demo video on youtube](https://youtu.be/B7KzvXfXByM)
 
 The demo showcases vehicle detection, tracking IDs, directional counting, real-time speed calculation, color-coded bounding boxes, and the live analytics dashboard.
 
